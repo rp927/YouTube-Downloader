@@ -1,6 +1,8 @@
 import youtube_dl
 import tkinter as tk
 
+#This file is old! Please see youtube2.py for latest version of this project
+
 class YouTube:
     def __init__(self,master):
         self.__master = master
